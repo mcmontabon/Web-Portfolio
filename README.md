@@ -1,2 +1,2 @@
 # Web-Portfolio
-Personal web portfolio
+Personal portfolio webpage and links to some Projects and GitHub Repositories
